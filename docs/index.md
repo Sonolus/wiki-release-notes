@@ -2,4 +2,4 @@
 
 Information of latest and past releases of [Sonolus](https://sonolus.com).
 
-Latest version: [0.5.9](./versions/0.5.9.md)
+Latest version: [0.5.10](./versions/0.5.10.md)
