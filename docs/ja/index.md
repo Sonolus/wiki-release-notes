@@ -2,4 +2,4 @@
 
 [Sonolus](https://sonolus.com) の過去から現在までのリリースノート
 
-最新バージョン：[0.7.2](./versions/0.7.2.md)
+最新バージョン：[0.7.3](./versions/0.7.3.md)
