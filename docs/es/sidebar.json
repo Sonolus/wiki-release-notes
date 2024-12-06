@@ -8,6 +8,8 @@
   {
     "title": "Versiones",
     "pages": {
+      "/versions/0.8.8": "0.8.8",
+      "/versions/0.8.7": "0.8.7",
       "/versions/0.8.6": "0.8.6",
       "/versions/0.8.5": "0.8.5",
       "/versions/0.8.4_1": "0.8.4 (1)",
